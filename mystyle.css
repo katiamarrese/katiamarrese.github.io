@@ -1,0 +1,36 @@
+body {
+	background-color: powderblue;
+}	
+.navbar-custom {
+	background-color: navy;
+}
+.immagine {
+   max-width: 60%;
+   height: auto;
+   margin-right: 15px; 
+}
+.paragraph {
+            margin: 20px;
+            text-align: center;
+            background-color: lightgrey;
+ }
+ .paragraph-1 {
+            margin: 20px;
+            text-align: center;
+            background-color: lightgrey;
+ }
+ .paragraph-2 {
+            margin: 20px;
+            text-align: center;
+            background-color: lightgrey;
+}
+.carousel-container {
+            justify-content: center;
+            align-items: center; 
+            margin: 20px; 
+}
+
+
+		 
+
+	
