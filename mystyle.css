@@ -7,7 +7,7 @@ body {
 .immagine {
    max-width: 60%;
    height: auto;
-   margin-right: 15px; 
+   margin: 15px; 
 }
 .paragraph {
             margin: 20px;
